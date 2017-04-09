@@ -1,3 +1,4 @@
+// Commenting for a test
 const mongoose = require('mongoose');
 
 // this is our schema to represent a restaurant
